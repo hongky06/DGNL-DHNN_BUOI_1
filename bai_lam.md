@@ -3,7 +3,7 @@
 - **Mã đề:** 01
 - **Họ tên:** DOHONGKY
 - **Lớp:** CNTT3
-- **Link repository:** Chưa có link GitHub (đang chờ repository được tạo và đẩy lên)
+- **Link repository:** https://github.com/hongky06/DGNL-DHNN_BUOI_1
 - **Hệ điều hành (Windows/macOS):** Windows
 - **Mã commit P2 đã nộp trước phút 90 (gõ `git log --oneline -1`):** Chưa có commit P2 trong repository
 - **Phiên bản Node.js (gõ `node -v`):** v24.21.0
